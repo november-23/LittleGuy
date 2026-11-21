@@ -10,7 +10,7 @@ using UnityEngine;
 
 namespace LittleGuy
 {
-    [BepInPlugin(GUID, "Little Guy", "1.3.1")]
+    [BepInPlugin(GUID, "Little Guy", "1.3.2")]
     public class Plugin : BaseUnityPlugin
     {
         public const string GUID = "spapi.etg.littleguy";
